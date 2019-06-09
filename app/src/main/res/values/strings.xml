@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="sensor_values">values</string>
+    <string name="sensor_name">name</string>
+
+    <string-array name="results">
+        <item>It is certain.</item>
+        <item>As I see it, yes.</item>
+        <item>Reply hazy, try again.</item>
+        <item>Dont count on it.</item>
+        <item>It is decidedly so.</item>
+        <item>Most likely.</item>
+        <item>Ask again later.</item>
+        <item>My reply is no.</item>
+        <item>Without a doubt.</item>
+        <item>Outlook good.</item>
+        <item>Better not tell you now.</item>
+        <item>My sources say no.</item>
+        <item>Yes - definitely.</item>
+        <item>Yes.</item>
+        <item>Cannot predict now.</item>
+        <item>Outlook not so good.</item>
+        <item>You may rely on it.</item>
+        <item>Signs point to yes.</item>
+        <item>Concentrate and ask again.</item>
+        <item>Very doubtful.</item>
+    </string-array>
+</resources>
